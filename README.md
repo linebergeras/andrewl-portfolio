@@ -1,4 +1,4 @@
-# Personal website for introduce yourself
+# Portfolio website
 
 You need to have npm and Angular CLI installed in your pc. Npm is aviable with NodeJS in [here](https://nodejs.org/es/). After you install npm, install Angular CLI by typping the following command in your terminal
 
