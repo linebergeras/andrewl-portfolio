@@ -8,7 +8,7 @@
 
   "Banner.Pretitle": "Hello! My name is",
   "Banner.Description": "I have <span class='underline'>15 years of experience</span> developing systems, processes, interfaces, and technological solutions in different environments. I am dedicated to writing reusable and scalable code in <span class='underline'>Angular</span> and <span class='underline'>React</span> for Front-end and <span class='underline'>Node Js</span> for Back-end, applying good practices and development standards.",
-  "Banner.ActionBtn": "Say Hi",
+  "Banner.ActionBtn": "Reach Out",
 
   "AboutMe.Title": "About Me",
   "AboutMe.Paragraphs": [
@@ -255,7 +255,7 @@
   ],
 
   "Contact.Pretitle": "And... Now?",
-  "Contact.Title": "Say Hi!",
+  "Contact.Title": "Reach Out!",
   "Contact.Content": "I will be glad to hear from you if you want to discuss new opportunities. Write to me, and I will respond as soon as I see your message.",
   "Contact.Btn": "Contact Me"
 }

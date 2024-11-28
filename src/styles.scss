@@ -7,7 +7,7 @@ body {
   overflow-x: hidden;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  background-color: $Navy;
+  background-color: $Black;
   color: $Slate !important;
   line-height: 1.3;
   font-family: $MainFont;
@@ -125,7 +125,7 @@ a {
 }
 
 @media (min-width: 768px) and (max-width: 1100px) {
-  .proyect-container {
+  .project-container {
     margin: 30px 0 !important;
     height: 385px !important;
   }
