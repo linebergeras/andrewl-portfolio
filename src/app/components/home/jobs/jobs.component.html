@@ -23,14 +23,14 @@
             <a ngbNavLink>{{ job.Tab }}</a>
             <ng-template ngbNavContent>
               <h4 class="title-tab-content">
-                {{ job.Title }} |
+                {{ job.Positions[0].Title }} |
                 <span class="company-tab-content">{{ job.Tab }}</span>
               </h4>
-              <h5 class="job-time">{{ job.Date }}</h5>
+              <h5 class="job-time">{{ job.Positions[0].Date }}</h5>
               <!-- {{job.Description | json}} -->
               <p
                 *ngFor="
-                  let jobDescriptionParagraph of job.Description;
+                  let jobDescriptionParagraph of job.Positions[0].Description;
                   let i = index
                 "
                 class="job-description"
