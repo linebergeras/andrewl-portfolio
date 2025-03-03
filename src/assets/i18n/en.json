@@ -177,6 +177,16 @@
         "assets/images/projectpip/2024-12-20_21-32-41.png"
       ],
       "Technologies": ["Node JS", "Angular", "MySQL", "CD/CI", "Docker"]
+    },
+    {
+      "Title": "Monte Carlo",
+      "Description": "Agile Kanban focused webite utilizing Typescript, sql server and simulation calling. Developed in <span class='underline'>Angular</span>, <span class='underline'>Node JS</span> and <span class='underline'>.Net Core</span>.",
+      "imgs": [
+        "assets/images/montecarlo/2025-03-03_12-09-51.PNG",
+        "assets/images/montecarlo/2025-03-03_12-11-09.PNG",
+        "assets/images/montecarlo/2025-03-03_14-07-08.PNG"
+      ],
+      "Technologies": ["Node JS", "Angular", "SQL Server", ".Net Core", "Docker"]
     }
   ],
 
