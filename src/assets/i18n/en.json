@@ -1,0 +1,197 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "AL_resume_2024-v1.pdf",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>15 years of experience</span> developing systems, processes, interfaces, and technological solutions in different environments. I am dedicated to writing reusable and scalable code in <span class='underline'>Angular</span> and <span class='underline'>React</span> for Front-end and <span class='underline'>Node Js</span> for Back-end, applying good practices and development standards.",
+  "Banner.ActionBtn": "Reach Out",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "In <span class='underline'>15 years of experience</span> I have covered many roles: <span class='underline'>Systems Analyst</span>, <span class='underline'>Backend Developer</span>, <span class='underline'>Frontend Developer</span>, and <span class='underline'>Technical Lead</span>. I love contributing my knowledge to create new things that help solve problems.",
+    "My capabilities also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I am working on.",
+    "I also program things for my personal use, whether for hobby or utility.",
+    "Some of the technologies I have trained and worked with include (but are not limited to):"
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "UKG",
+      "Positions": [{
+        "Title": "Lead Software Engineer",
+        "Date": "April 2023 - Current",
+        "Description": [
+          "Created multiple web apps with (Angular, Node JS) to solve for automation and create savings by reducing SME allocation",
+          "Accomplished full stack developer with frontend/backend development",
+          "Led the creation of CI/CD pipelines configured for all our apps in cloud through Kubernetes and Docker",
+          "GCP Cloud and SaaS maintained apps",
+          "Google Vertex AI with simple chat and text prompt simple apps utilizing in house models",
+          "Manage GitHub repos with GitHub Actions configuration",
+          "Mentored teammates with Kubernetes setups and skillset building to unify team",
+          "Committee member to collaborate on improvement points for the company’s annual employee surveys"
+        ]
+      },
+      {
+        "Title": "Software Engineer II",
+        "Date": "August 2021 - April 2023",
+        "Description": [
+          "Continuously maintain and update our internal facing apps that contain .Net Core APIs, Node JS, React",
+          "Built new Teams tool (React, Node JS) for our team which serves over 300 Dev managers to assign and structure their individual contributors, scrum masters & managers",
+          "Internal CI/CD pipelines configured for all our apps to have instant and safe deployments through Kubernetes and Docker",
+          "Upgraded current angular site to React and streamlined UI with better user experience",
+          "Full stack developer capable of backend/frontend development",
+          "Maintain and replaced all Tableau reporting with Power BI to cut licensing costs and centralized reporting",
+          "Created Premium workspaces and Power BI pipelines for seamless deployments",
+          "Constantly engaged with user testing and recommendation throughout Project lifecycle"
+          
+        ]
+      }
+    ]
+    
+    },
+    {
+      "Tab": "Ultimate Software",
+      "Positions": [{
+        "Title": "Tax Data Engineer II",
+        "Date": "August 2021 - April 2023",
+        "Description": [
+          "Work with UTE product daily to create SQL reporting for end users to perform daily tasks in order to better provide tax services to clients",
+          "Created Cognos reporting solutions to automate real-time data pulls to reduce business processing time",
+          "Worked on high-visible QE/YE Tax Forms project involving Dev, Print, Filing Ops, & Agency Ops teams",
+          "Create/Manage SQL databases for our internal customers to report important statistical data to improve our department’s reliability in catching mass issues and agency related problems within Select Services. ",
+          "Pursuing Azure certification to assist in more cloud-based technologies",
+          "Currently learning Node JS, Express, React & C# for an inhouse highly visible Amendments app our team is responsible for",
+          "Constantly in communication with team members and leadership daily to gain requirements and/or attend team meetings",
+          "Assist team members in training around SQL programming, SSIS, PowerShell and/or Cognos development for better team productivity and cross-training",
+          "Agile/Kanban methodology with bi-weekly sprints"
+
+        ]
+      },
+      {
+        "Title": "Systems Analyst II",
+        "Date": "April 2016 - May 2018",
+        "Description": [
+          "Installed and implemented Appian (Business Process Improvement) tool in 7 separate environments spreading across 4 data centers",
+          "Created alerting automation and file system maintenance with PowerShell scripting",
+          "Worked with many internal departments i.e., networking, SaaS, Security to ensure application compliance and integrity",
+          "Planned, designed, and implemented application database code objects, such as stored procedures, views and SQL jobs on SQL Server",
+          "Created automated backup procedures using SQL and PowerShell to ensure Disaster Recovery",
+          "Collaborated with business users to create automation and continuous support post go-live",
+          "Managed all phases of Software Development Life Cycle that includes Requirements, Design, Development, Testing, Deployment and Support",
+          "Experience with Kanban",
+          "Used JIRA daily to track and maintain project items and daily support tickets",
+          "Utilized confluence software as a document repository for all project related documents and training materials",
+          "Developed Service requests and Incidents in ServiceNow platform using JavaScript"
+        ]
+      }
+    ]
+    },
+    {
+      "Tab": "CaroMont Health",
+      "Positions": [{
+        "Title": "BI Developer",
+        "Date": "June 2014 - April 2016",
+        "Description": [
+          "Obtained 6 Certifications in Epic Software which is a nationwide used medical platform",
+          "Planned, designed, implemented and maintained SQL stored procedures, queries, views, Dynamic SQL, SSIS, and SSRS",
+          "Developed many reports across medical facilities in big bang roll out over a period of just 6 months",
+          "Managed all phases of Software Development Life Cycle that includes Requirements, Design, Development, Testing, Deployment and Support",
+          "Experience with Agile and SCRUM",
+          "Created/Integrated Crystal Reports into Epic Software for varying medical practices"
+        ]
+      }
+    ]
+    },
+    {
+      "Tab": "YMCA of Charlotte",
+      "Positions": [{
+        "Title": "Systems Analyst",
+        "Date": "January 2013 - June 2014",
+        "Description": [
+          "Created/managed SQL stored procedures, functions, queries and views, Dynamic SQL, SSIS, SSRS",
+          "Monitored Test & Prod SQL databases",
+          "Developed/Maintained all YMCA applications (Personify) and SQL Server dbs",
+          "Lead developer on first e-commerce site project. Required integration SQL scripts and HTML coding",
+          "Actively communicated with vendor to solve application defects and create better UI",
+          "Managed all phases of Software Development Life Cycle that includes Requirements, Design, Development, Testing, Deployment and Support"
+        ]
+      }
+    ]
+    },
+    {
+      "Tab": "Ovation",
+      "Positions": [{
+        "Title": "IT Analyst",
+        "Date": "April 2012 - January 2013",
+        "Description": [
+          "Integrated customer data into system using CSV, Flat files",
+          "Designed mock-up of client website portals with software including GIMP and Photoshop",
+          "Created VBA Functions to automate processes",
+          "Utilized SQL daily to execute DML & DDL statements"
+        ]
+      }
+    ]
+    },
+    {
+      "Tab": "FleetNet America",
+      "Positions": [{
+        "Title": "Computer Programmer",
+        "Date": "November 2010 - April 2012",
+        "Description": [
+          "Integrated customer data into company system and vice versa with XML files created with SQL scripting",
+          "Used FTP to transfer XML & comma-delimited files",
+          "Created applications with languages such as VB6, VB.net, & C#",
+          "Used source control software such as Team Foundation Server",
+          "Planned, designed, implemented and maintained SQL stored procedures, functions, indexes, queries and views, Dynamic SQL, SSIS",
+          "Worked with well-known customers such as Budget Rent-a-Truck & FedEx"
+        ]
+      }
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "My Projects",
+  "FeatureProjects.Label": "Highlighted Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "GSWhiz",
+      "Description": "Web application for customer SFTP management that includes over 10,000 clients.  Very extensive and complex with various functions made in <span class='underline'>Angular</span> and <span class='underline'>Node JS</span>. It comprises of logic to generate SSH/PGP keys and customer hosting sessions. The application utilizes <span class='underline'>JWT</span>, <span class='underline'>Containerization</span>, <span class='underline'>Samba libraries</span>, <span class='underline'>vault storage</span>, <span class='underline'>Mongo</span> and more!",
+      "imgs": [
+        "assets/images/gswhiz/2024-12-12_10-31-55.png",
+        "assets/images/gswhiz/2024-12-12_10-32-28.png",
+        "assets/images/gswhiz/2024-12-12_12-04-47.png"
+      ],
+      "Technologies": ["Node JS", "Angular", "Mongo", "Kubernetes", "CD/CI"]
+    },
+    {
+      "Title": "InsightIQ",
+      "Description": "Application utilizing Google Vertex AI and function calling to a BigQuery data source. It has <span class='underline'>context loading</span>, <span class='underline'>prompt engineering</span>, <span class='underline'>historical data</span>, and more. Developed in <span class='underline'>Angular</span> and <span class='underline'>Node JS</span>.",
+      "imgs": [
+        "assets/images/projectpip/2024-12-20_21-31-52.png",
+        "assets/images/projectpip/2024-12-20_21-32-08.png",
+        "assets/images/projectpip/2024-12-20_21-32-41.png"
+      ],
+      "Technologies": ["Node JS", "Angular", "MySQL", "CD/CI", "Docker"]
+    },
+    {
+      "Title": "Monte Carlo",
+      "Description": "Agile Kanban focused website to assist 100's of Dev managers on streamlining their JIRAs, priorities and Time to Resolve. Site utilizes Typescript, SQL Server and simulation functions. Developed in <span class='underline'>Angular</span>, <span class='underline'>Node JS</span> and <span class='underline'>.Net Core</span>.",
+      "imgs": [
+        "assets/images/montecarlo/2025-03-03_12-09-51.PNG",
+        "assets/images/montecarlo/2025-03-03_12-11-09.PNG",
+        "assets/images/montecarlo/2025-03-03_14-07-08.PNG"
+      ],
+      "Technologies": ["Node JS", "Angular", "SQL Server", ".Net Core", "Docker"]
+    }
+  ],
+
+  "Contact.Pretitle": "And... Now?",
+  "Contact.Title": "Reach Out!",
+  "Contact.Content": "I will be glad to hear from you if you want to discuss new opportunities. Write to me, and I will respond as soon as I see your message.",
+  "Contact.Btn": "Contact Me"
+}
